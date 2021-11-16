@@ -9,7 +9,7 @@ Software engineer who likes pasta more than code. Wait, maybe it's just spaghett
  - **GG International** as fullstack developer - 10/2018 - 10/2019   
 	 Worked with small team to develop systems and components processing large amounts of  data for big lottery systems using Laravel framework.
 	 
- - **HypePlay** – as Laravel Developer – 2016 - 09/2018  
+ - **HypePlay** as Laravel Developer – 2016 - 09/2018  
 	 Creating and maintaining applications for external customers using Laravel, Lumen and Node.js.
 	 
  - **Freelance Web Developer** – 2015 - 2016  

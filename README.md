@@ -13,7 +13,7 @@ Software engineer who likes pasta more than code. Wait, maybe it's just spaghett
 	 Creating and maintaining applications for external customers using Laravel, Lumen and Node.js.
 	 
  - **Freelance Web Developer** – 2015 - 2016  
-	 Open source projects, websites an desktop applications. Worked with various languages, such as PHP, JS or Go.
+	 Open source projects, websites an desktop applications. Worked with various languages, such as PHP, JS.
 	 
 ##  Skills
  - Proficient in PHP 7+, JavaScript (ES6), HTML and CSS (BEM, SMACSS).

@@ -23,6 +23,6 @@ Software engineer who likes pasta more than code. Wait, maybe it's just spaghett
  - Familiar with size-mid data system, Go and Python in free time.
 
 You still here?  
-I'm available for small projects as backend developer (PHP 8, Laravel), hit me up at mat.zarnowskii+job@gmail.com.
+I'm available for small projects as backend developer (PHP 8, Laravel).
 
 🐳

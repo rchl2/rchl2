@@ -1,6 +1,6 @@
 ##  Hey there 🤙🏻
 
-Software enginee with 6 years experience who likes pasta more than code. Wait, maybe it's just spaghetti code? 🍝  
+Software engineer with 6 years experience who likes pasta more than code. Wait, maybe it's just spaghetti code? 🍝  
 
 ##  Experience
  - **Q24** as fullstack developer – 10/2019 - now   

@@ -3,24 +3,25 @@
 Software engineer with 6 years experience who likes pasta more than code. Wait, maybe it's just spaghetti code? 🍝  
 
 ##  Experience
- - **Q24** as fullstack developer – 10/2019 - now   
-   	Creating application software for e-learning industry leaders. I'm also responsible for establishing and leading a small team of software developers.
+ - **Q24** as Fullstack developer – 10/2019 - now   
+   	Primarily responsible for creating software solutions for one of the leading companies in the e-learning industry and leading a small team of developers. Additionally, actively involved in DevOps tasks, including Kubernetes management and CI/CD for multiple Laravel app instances.
 	 
- - **GG International** as fullstack developer - 10/2018 - 10/2019   
-	Worked with small team to develop systems and components processing large amounts of data for big lottery systems using Laravel framework.
+ - **GG International** as Fullstack developer - 10/2018 - 10/2019   
+	Collaborated with a small team to build systems and components for processing large volumes of data in support of major lottery systems using the Laravel framework.
 	 
  - **HypePlay** as Laravel Developer – 2016 - 09/2018  
-	 Creating and maintaining applications for external customers using Laravel, Lumen and Node.js.
+	 Created and maintained applications for external clients using Laravel, Lumen, and Node.js technologies.
 	 
  - **Freelance Web Developer** – 2015 - 2016  
-	 Open source projects, websites an desktop applications. Worked with various languages, such as PHP, JS.
+	 Worked on open-source projects, websites, and desktop applications, utilizing various programming languages, including PHP and JavaScript.
 	 
 ##  Skills
- - Proficient in PHP 7+, JavaScript (ES6), HTML and CSS (BEM, SMACSS).
- - Very good knowledge of frameworks; Laravel (including eco-system and micro-frameworks like Zero) and Lumen.
- - Familiar with REST API/GraphQL and frameworks like Node.js, React/Vue, Electron.
- - Know-how of version control and tools such as; VSC, Git, Yarn/NPM, Webpack, Composer, Vagrant/Docker.
- - Familiar with size-mid data system, Go and Python.
+- Proficient in PHP 7+, JavaScript (ES6), HTML.
+- Strong knowledge of frameworks: Laravel (including its ecosystem and micro-frameworks like Zero) and Lumen.
+- Familiar with REST API/GraphQL and frameworks like Node.js, React/Vue, and Electron.
+- Proficient in version control tools such as VSC, Git, package managers like Yarn/NPM, build tools like Webpack, Composer for PHP, and virtualization tools like Vagrant/Docker.
+- Experienced in maintaining Kubernetes infrastructure and working with related stack technologies, including Longhorn, Grafana, and Helm.
+- Familiar with mid-sized data systems, as well as Go and Python.
 
 You still here?  
 I'm available for small projects as backend developer (PHP 8, Laravel).

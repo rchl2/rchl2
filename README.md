@@ -4,7 +4,7 @@ Software engineer with 6 years of experience who enjoys pasta as much as coding.
 
 ##  Experience
  - **Q24** as Fullstack developer – 10/2019 - now   
-   	Primarily responsible for creating software solutions for one of the leading companies in the e-learning industry and leading a small team of developers. Additionally, actively involved in DevOps tasks, including Kubernetes management and CI/CD for multiple Laravel app instances.
+   	Primarily responsible for creating software solutions for one of the leading companies in the e-learning industry in Poland and leading a small team of developers. Additionally, actively involved in DevOps tasks, including Kubernetes management and CI/CD for multiple Laravel app instances.
 	 
  - **GG International** as Fullstack developer - 10/2018 - 10/2019   
 	Collaborated with a small team to build systems and components for processing large volumes of data in support of major lottery systems using the Laravel framework.

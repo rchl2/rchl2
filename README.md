@@ -1,6 +1,6 @@
-##  Hey there 🤙🏻
+##  Hey!
 
-Software engineer with 6 years experience who likes pasta more than code. Wait, maybe it's just spaghetti code? 🍝  
+Software engineer with 6 years of experience who enjoys pasta as much as coding. Wait, maybe it's just spaghetti code? 🍝
 
 ##  Experience
  - **Q24** as Fullstack developer – 10/2019 - now   
@@ -23,7 +23,7 @@ Software engineer with 6 years experience who likes pasta more than code. Wait, 
 - Experienced in maintaining Kubernetes infrastructure and working with related stack technologies, including Longhorn, Grafana, and Helm.
 - Familiar with mid-sized data systems, as well as Go and Python.
 
-You still here?  
+### Availability
 I'm available for small projects as backend developer (PHP 8, Laravel).
 
 🐳

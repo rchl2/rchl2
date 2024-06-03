@@ -3,7 +3,7 @@
 Software engineer with 7 years of experience who enjoys pasta as much as coding. Wait, maybe it's just spaghetti code? 🍝
 
 ##  Experience
- - **Q24** as Fullstack developer – 10/2019 - now   
+ - **Q24** as Lead developer – 10/2019 - now   
    	Primarily responsible for creating software solutions for one of the leading companies in the e-learning industry in Poland and leading a small team of developers. Additionally, actively involved in DevOps tasks, including Kubernetes management and CI/CD for multiple Laravel app instances.
 	 
  - **GG International** as Fullstack developer - 10/2018 - 10/2019   

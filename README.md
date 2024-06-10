@@ -7,6 +7,7 @@ Software engineer with over 7 years of experience who enjoys pasta as much as co
    	Primarily responsible for creating & planning software solutions for one of the leading companies in the e-learning industry in Poland and leading a small team of developers. 	Actively involved in DevOps tasks, including Kubernetes management and CI/CD for multiple microservices, Laravel app instances.
 	 
  - **GG International** as Fullstack developer - 10/2018 - 10/2019
+	
 	Designed and implemented data processing systems for major global lottery systems using the Laravel framework. Planned and coded key components, working on multiple systems to handle large data volumes. Collaborated with a team to enhance performance and ensure efficient, reliable, and scalable data processing solutions.
 	 
  - **HypePlay** as Laravel Developer – 2016 - 09/2018  

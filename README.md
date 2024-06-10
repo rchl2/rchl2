@@ -4,7 +4,7 @@ Software engineer with over 7 years of experience who enjoys pasta as much as co
 
 ##  Experience
  - **Q24** as Lead developer – 10/2019 - now\
-	Primarily responsible for creating & planning software solutions for one of the leading companies in the e-learning industry in Poland and leading a small team of developers. 	Actively involved in DevOps tasks, including Kubernetes management and CI/CD for multiple microservices, Laravel app instances.
+	Primarily responsible for creating & planning software solutions for one of the leading companies in the e-learning industry in Poland, utilizing Laravel and other microservices. Responsible of leading a small team of developers. Actively involved in DevOps tasks, including Kubernetes management and CI/CD for multiple microservices, Laravel app instances.
 	 
  - **GG International** as Fullstack developer - 10/2018 - 10/2019\
 	Designed and implemented data processing systems for major global lottery systems using the Laravel framework. Took charge of planning and coding essential components, contributing to various tasks aimed at managing large data volumes. Collaborated closely with a team to optimize performance and deliver efficient, reliable, and scalable data processing solutions.

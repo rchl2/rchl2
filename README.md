@@ -11,11 +11,13 @@ Software engineer with over 7 years of experience who enjoys pasta as much as co
    
 	Designed and implemented data processing systems for major global lottery systems using the Laravel framework. Took charge of planning and coding essential components, contributing to various tasks aimed at managing large data volumes. Collaborated closely with a team to optimize performance and deliver efficient, reliable, and scalable data processing solutions.
 	
- - **HypePlay** as Laravel Developer – 2016 - 09/2018  
+ - **HypePlay** as Laravel Developer – 2016 - 09/2018
+   
 	 Developed and maintained applications for external clients using Laravel, Lumen, and Node.js technologies.
 	 
- - **Freelance Web Developer** – 2015 - 2016
-	 Worked on open-source projects, websites, and desktop applications, utilizing various programming languages, including PHP and JavaScript.
+- **Freelance Web Developer** – 2015 - 2016  
+  
+ 	Worked on open-source projects, websites, and desktop applications, utilizing various programming languages, including PHP and JavaScript.
 	 
 ##  Skills
 - Proficient in PHP 7+, JavaScript (ES6), HTML & CSS.

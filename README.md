@@ -1,6 +1,6 @@
 ##  Hey!
 
-Software engineer with over 7 years of experience who enjoys pasta as much as coding. Wait, maybe it's just spaghetti code? 🍝
+Software engineer with over 8 years of experience who enjoys pasta as much as coding. Wait, maybe it's just spaghetti code? 🍝
 
 ##  Experience
  - **Q24** as Lead developer – 10/2019 - now\

@@ -11,6 +11,6 @@ Software engineer with over 8 years of experience who enjoys pasta as much as co
 - Familiar with mid-sized data systems, as well as Go and Python.
 
 ### Availability
-I'm available for small projects (part-time only) as backend developer (PHP 8+, Laravel). Available p on Linkedin.
+I'm available for small projects (part-time only) as backend developer (PHP 8+, Laravel). Resume on Linkedin.
 
 🐳

@@ -1,16 +1,13 @@
 ##  Hey!
 
-Software engineer with over 9 years of experience who enjoys pasta as much as coding. Wait, maybe it's just spaghetti code? 🍝
+Software engineer and technical lead with 11 years of experience architecting and building solutions across edu-tech, e-commerce, and digital platforms. Proven track record of taking greenfield products from zero to scale, leading small engineering teams, and aligning technical execution directly with business goals.
 
-##  Skills
-- Proficient in PHP 7+, JavaScript (ES6), HTML & CSS.
-- Strong knowledge of Laravel and its ecosystem (Inertia, Jetstream, Livewire, Cashier, etc.) and micro-frameworks like Laravel Zero.
-- Strong knowledge of REST API/GraphQL and frameworks like Node.js, React/Vue, and Electron.
-- Proficient in version control tools such as VSC, Git, package managers like Yarn/NPM, build tools like Webpack, Composer for PHP, and virtualization tools like Vagrant/Docker.
-- Experienced in maintaining Kubernetes infrastructure and working with related stack technologies, including Longhorn, Grafana, and Helm or Flux.
-- Familiar with mid-sized data systems, as well as Go and Python.
+##  Core technologies & Expertise:
+Always open to continuous learning and growth in whatever areas the team needs.
 
-### Availability
-I'm available for small projects (part-time only) as backend developer (PHP 8+, Laravel). Resume on Linkedin.
+Backend: PHP (Laravel), JavaScript / TypeScript, Node.js, Python,
+Front & Mobile: Vue, React, React Native (iOS & Android), Expo.
+Infra: Basic infra - Docker, Kubernetes, Ci/CD (Helm & Flux), Grafana. Mostly bare-metal & cloud setups.
+AI: GenAI, LLM & agents orchestration, Vector Databases (Qdrant), basic context & harness engineering.
 
 🐳

@@ -5,13 +5,13 @@ Software engineer and technical lead with 11 years of experience architecting an
 ##  Core technologies & Expertise:
 Always open to continuous learning and growth in whatever areas the team needs.
 
-Backend: PHP (Laravel), JavaScript / TypeScript, Node.js, Python,
+Backend: PHP (framework-less & Laravel), JavaScript / TypeScript, Node.js, Python,
 Front & Mobile: Vue, React, React Native (iOS & Android), Expo.
 Infra: Basic infra - Docker, Kubernetes, Ci/CD (Helm & Flux), Grafana. Mostly bare-metal & cloud setups.
 AI: GenAI, LLM & agents orchestration, Vector Databases (Qdrant), basic context & harness engineering.
 
 ## AI Space:
-Meet [Harry](https://github.com/rchl2/harry): a linter for the prose your coding agent ships: comments, commits, PR bodies, names, error messages.
+Meet [Harry](https://github.com/rchl2/harry): a OpenCode linter for the prose your coding agent ships: comments, commits, PR bodies, names, error messages. 
 
 
 🐳

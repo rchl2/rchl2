@@ -11,7 +11,7 @@ Infra: Basic infra - Docker, Kubernetes, Ci/CD (Helm & Flux), Grafana. Mostly ba
 AI: GenAI, LLM & agents orchestration, Vector Databases (Qdrant), basic context & harness engineering.
 
 ## My take on AI:
-Meet [Harry](https://github.com/rchl2/harry): a OpenCode linter for the prose your coding agent ships: comments, commits, PR bodies, names, error messages. Basically a harness.
+(Harness) [Harry](https://github.com/rchl2/harry): a OpenCode linter for the prose your coding agent ships: comments, commits, PR bodies, names, error messages.
 
 
 🐳

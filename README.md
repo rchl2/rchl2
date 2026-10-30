@@ -10,8 +10,8 @@ Front & Mobile: Vue, React, React Native (iOS & Android), Expo.
 Infra: Basic infra - Docker, Kubernetes, Ci/CD (Helm & Flux), Grafana. Mostly bare-metal & cloud setups.
 AI: GenAI, LLM & agents orchestration, Vector Databases (Qdrant), basic context & harness engineering.
 
-## AI Space:
-Meet [Harry](https://github.com/rchl2/harry): a OpenCode linter for the prose your coding agent ships: comments, commits, PR bodies, names, error messages. 
+## My take on AI:
+Meet [Harry](https://github.com/rchl2/harry): a OpenCode linter for the prose your coding agent ships: comments, commits, PR bodies, names, error messages. Basically a harness.
 
 
 🐳
